@@ -7,14 +7,14 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(16, 88%, 60%);
+  --first-color: #ff8ba7;
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --title-color: hsl(0, 0%, 15%);
   --text-color: hsl(0, 0%, 35%);
   --text-color-light: hsl(0, 0%, 55%);
-  --body-color: hsl(0, 0%, 99%);
-  --container-color: #fff;
+  --body-color: #faeee7;
+  --container-color: #fffffe;
   --border-color: hsl(0, 0%, 94%);
 
   /*========== Font and typography ==========*/
